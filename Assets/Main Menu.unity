@@ -5710,7 +5710,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: 1306056096
+  randomSeed: -415993565
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -21748,6 +21748,7 @@ GameObject:
   - component: {fileID: 1687177794}
   - component: {fileID: 1687177793}
   - component: {fileID: 1687177792}
+  - component: {fileID: 1687177796}
   m_Layer: 5
   m_Name: New Game Button
   m_TagString: Untagged
@@ -21824,15 +21825,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1687177792}
-        m_MethodName: OpenObject
-        m_Mode: 2
+      - m_Target: {fileID: 1687177796}
+        m_MethodName: LoadNewScene
+        m_Mode: 5
         m_Arguments:
-          m_ObjectArgument: {fileID: 723668188}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Sandbox
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -21870,6 +21871,17 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1687177790}
+--- !u!114 &1687177796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1687177790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b72bfb009ff1a8349becdd3bc9ce8343, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1763524213
 GameObject:
   m_ObjectHideFlags: 0
