@@ -1938,7 +1938,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Class
+  m_Text: Cleric
 --- !u!222 &605548072
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2027,7 +2027,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Race 1
+  m_Text: Halfling
 --- !u!222 &605567621
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2227,7 +2227,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Race 1
+  m_Text: Human
 --- !u!222 &716460567
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2810,7 +2810,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Class
+  m_Text: Rogue
 --- !u!222 &855621186
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2899,7 +2899,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Race 1
+  m_Text: Dwarf
 --- !u!222 &880890465
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3987,7 +3987,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Class
+  m_Text: Hunter
 --- !u!222 &1292739610
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5507,7 +5507,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Race 1
+  m_Text: Gnome
 --- !u!222 &1900319765
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5673,7 +5673,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Race 1
+  m_Text: Elf
 --- !u!222 &2032082500
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5762,7 +5762,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Class
+  m_Text: Wizard
 --- !u!222 &2035676124
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5925,7 +5925,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Class
+  m_Text: Knight
 --- !u!222 &2074790664
 CanvasRenderer:
   m_ObjectHideFlags: 0
