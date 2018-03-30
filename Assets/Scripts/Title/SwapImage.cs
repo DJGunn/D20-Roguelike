@@ -8,6 +8,7 @@ public class SwapImage : MonoBehaviour {
 
    public void Swap(GameObject obj) {
         obj.GetComponent<Image>().sprite = image;
+        obj.GetComponent<Image>().color = Color.white;
     }
 
 }
