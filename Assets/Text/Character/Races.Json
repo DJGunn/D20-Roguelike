@@ -1,0 +1,38 @@
+{
+	"name" : "Elf",
+	"stats" : {
+		"Vitality" : 8,
+		"Brawn" : 8, 
+		"Agility" : 12,
+		"Magic" : 12,
+		"Willpower" : 10,
+		"Charisma" : 12
+	},
+	"racialSkill" : "Soul of the Forest" 
+}
+
+{
+	"name" : "Human",
+	"stats" : {
+		"Vitality" : 10,
+		"Brawn" : 10, 
+		"Agility" : 10,
+		"Magic" : 10,
+		"Willpower" : 10,
+		"Charisma" : 10
+	},
+	"racialSkill" : "Spark of Industry" 
+}
+
+{
+	"name" : "Orc",
+	"stats" : {
+		"Vitality" : 12,
+		"Brawn" : 12, 
+		"Agility" : 8,
+		"Magic" : 8,
+		"Willpower" : 12,
+		"Charisma" : 8
+	},
+	"racialSkill" : "Tenacity" 
+}
